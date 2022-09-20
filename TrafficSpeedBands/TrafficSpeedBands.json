@@ -1,0 +1,50 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#TrafficSpeedBandsv2",
+    "value": [
+        {
+            "LinkID": "103000000",
+            "RoadName": "KENT ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "30",
+            "MaximumSpeed": "39",
+            "Location": "1.3170142286123558 103.85298052044496 1.3166840028663076 103.85259882242372"
+        },
+        {
+            "LinkID": "103000010",
+            "RoadName": "BUCKLEY ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "10",
+            "MaximumSpeed": "19",
+            "Location": "1.3166507852203482 103.84102305136321 1.316912438354752 103.84022564204443"
+        },
+        {
+            "LinkID": "103000011",
+            "RoadName": "BUCKLEY ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 3,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "29",
+            "Location": "1.316912438354752 103.84022564204443 1.3166507852203482 103.84102305136321"
+        },
+        {
+            "LinkID": "103000014",
+            "RoadName": "SHREWSBURY ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "30",
+            "MaximumSpeed": "39",
+            "Location": "1.3186726294030418 103.84700267615683 1.318021196845699 103.84711392225324"
+        },
+        {
+            "LinkID": "103000015",
+            "RoadName": "SHREWSBURY ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "30",
+            "MaximumSpeed": "39",
+            "Location": "1.318021196845699 103.84711392225324 1.3186726294030418 103.84700267615683"
+        }
+    ]
+}

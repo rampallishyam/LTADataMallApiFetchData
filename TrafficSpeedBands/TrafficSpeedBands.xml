@@ -1,0 +1,116 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xml:base="http://datamall2.mytransport.sg/ltaodataservice">
+    <id>http://schemas.datacontract.org/2004/07/</id>
+    <title />
+    <updated>2018-3-15T22:41:55Z</updated>
+    <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands" />
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBandSet()</id>
+        <category term="DataMall2.Models.TrafficSpeedBands" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <title />
+        <updated>2018-3-15T22:41:55Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:LinkID>103098943</d:LinkID>
+                <d:RoadName>CHOA CHU KANG AVENUE 3</d:RoadName>
+                <d:RoadCategory>D</d:RoadCategory>
+                <d:SpeedBand>2</d:SpeedBand>
+                <d:MinimumSpeed>20</d:MinimumSpeed>
+                <d:MaximumSpeed>39</d:MaximumSpeed>
+                <d:Location>1.3805895432850994 103.74201730473243 1.3800400299576012 103.74120855605975</d:Location>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBandSet()</id>
+        <category term="DataMall2.Models.TrafficSpeedBands" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <title />
+        <updated>2018-3-15T22:41:55Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:LinkID>103076063</d:LinkID>
+                <d:RoadName>WOODLANDS ROAD</d:RoadName>
+                <d:RoadCategory>B</d:RoadCategory>
+                <d:SpeedBand>3</d:SpeedBand>
+                <d:MinimumSpeed>40</d:MinimumSpeed>
+                <d:MaximumSpeed>59</d:MaximumSpeed>
+                <d:Location>1.399027473240379 103.7553182996927 1.3986609754803143 103.75518194323922</d:Location>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBandSet()</id>
+        <category term="DataMall2.Models.TrafficSpeedBands" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <title />
+        <updated>2018-3-15T22:41:55Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:LinkID>103030883</d:LinkID>
+                <d:RoadName>HOUGANG AVENUE 4</d:RoadName>
+                <d:RoadCategory>D</d:RoadCategory>
+                <d:SpeedBand>2</d:SpeedBand>
+                <d:MinimumSpeed>20</d:MinimumSpeed>
+                <d:MaximumSpeed>39</d:MaximumSpeed>
+                <d:Location>1.3742439017982357 103.88529975827204 1.3738695600842703 103.8852253844054</d:Location>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBandSet()</id>
+        <category term="DataMall2.Models.TrafficSpeedBands" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <title />
+        <updated>2018-3-15T22:41:55Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:LinkID>104003992</d:LinkID>
+                <d:RoadName>CLEMENTI AVENUE 6</d:RoadName>
+                <d:RoadCategory>F</d:RoadCategory>
+                <d:SpeedBand>3</d:SpeedBand>
+                <d:MinimumSpeed>40</d:MinimumSpeed>
+                <d:MaximumSpeed>59</d:MaximumSpeed>
+                <d:Location>1.3163287378822295 103.76133268167833 1.3152605534502255 103.76088573773033</d:Location>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBandSet()</id>
+        <category term="DataMall2.Models.TrafficSpeedBands" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/TrafficSpeedBands()" />
+        <title />
+        <updated>2018-3-15T22:41:55Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:LinkID>103110036</d:LinkID>
+                <d:RoadName>HARVEY ROAD</d:RoadName>
+                <d:RoadCategory>E</d:RoadCategory>
+                <d:SpeedBand>2</d:SpeedBand>
+                <d:MinimumSpeed>20</d:MinimumSpeed>
+                <d:MaximumSpeed>39</d:MaximumSpeed>
+                <d:Location>1.333534171783063 103.88445104036495 1.334480240662004 103.88423757172991</d:Location>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
